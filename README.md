@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shubham Kumar and I'm a Full Stack Developer , from Gurgaon.</h2>
+<h2 align="left">Hi 👋! My name is Shubham Kumar and I'm a Full Stack Developer , from Bangalore.</h2>
 
 ###
 
