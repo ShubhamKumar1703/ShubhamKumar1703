@@ -30,9 +30,6 @@
 
 ---
 
-<div align="right">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" alt="Floating Astronaut" />
-</div>
 
 ### ✦ TECH_STACK_DASHBOARD ✦
 
@@ -61,6 +58,14 @@
 
 ---
 
+### ✦ 3D_MATRIX_RENDERING ✦
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamKumar1703/ShubhamKumar1703/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Commits City" />
+</p>
+
+---
+
 ### ✦ CONTRIBUTION_MATRIX ✦
 
 <picture>
@@ -75,4 +80,9 @@
   <img src="https://komarev.com/ghpvc/?username=ShubhamKumar1703&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
 </p>
 
+---
+
+### ✦ A.P.E.X. SYSTEM_LOG: DAILY_INSIGHT ✦
+
+> 🤖 *A.P.E.X. — The Digital Race Engineer is initializing... Scanning the Web3 & AI landscape. First telemetry report incoming within 24 hours.*
 </div>
