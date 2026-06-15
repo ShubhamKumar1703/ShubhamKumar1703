@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ShubhamKumar1703">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;HI,+I'M+SHUBHAM+KUMAR;FULL+STACK+DEVELOPER;WEB3+%26+AI-AGENT+ENTHUSIAST;BUILDING+THE+FUTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;HI,+I'M+SHUBHAM+KUMAR;FULL+STACK+DEVELOPER;AI+%26+ML+ENGINEER;AUTONOMOUS+AGENT+BUILDER;DATA+SCIENCE+ENTHUSIAST" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### ✦ SYSTEM_PROFILE ✦
 
-> I am a Full Stack Developer and Web3 enthusiast currently engineering modern software solutions at Epsilon. With a solid foundation in AIML, my technical focus bridges traditional web architecture with advanced workflow automation, AI-agent development, and decentralized technologies. I'm constantly optimizing workflows and tackling real-world problems with scalable code.
+> I am a Full Stack Developer transitioning deeply into AI, Machine Learning, and Data Science. Currently engineering scalable software solutions at Epsilon, my technical focus has shifted toward building autonomous AI agents and optimizing intelligent workflows. I approach data and system architecture with the precision of an F1 race engineer—always analyzing telemetry and looking for the next micro-optimization.
 
 ---
 
@@ -82,7 +82,7 @@
 
 ---
 
-### ✦ A.P.E.X. SYSTEM_LOG: DAILY_INSIGHT ✦
+### ✦ A.P.E.X. SYSTEM_LOG: DAILY_TELEMETRY ✦
 
-> 🤖 *A.P.E.X. — The Digital Race Engineer is initializing... Scanning the Web3 & AI landscape. First telemetry report incoming within 24 hours.*
+> 🤖 *A.P.E.X. — The Digital Race Engineer is initializing... Calibrating ML models and analyzing data pipelines. First telemetry report incoming within 24 hours.*
 </div>
