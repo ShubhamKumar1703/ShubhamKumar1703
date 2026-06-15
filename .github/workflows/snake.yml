@@ -11,13 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Generate Snake SVG
+      - name: Generate Custom Synthwave Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ShubhamKumar1703
-          # This generates the snake in dark mode to match your synthwave theme
+          # Upgraded with custom Synthwave hex colors
           outputs: |
-            dist/snake.svg?palette=github-dark
+            dist/snake.svg?color_snake=#00FFCC&color_dots=#161B22,#8A2BE2,#FF1493,#FF00FF,#00FFFF
             
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
