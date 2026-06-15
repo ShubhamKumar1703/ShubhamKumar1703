@@ -9,7 +9,7 @@ def get_ai_insight():
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
-    # Custom prompt tailored to your background
+    # The updated A.P.E.X. F1 Race Engineer Prompt
     prompt = (
         "You are A.P.E.X. (The Digital Race Engineer), an autonomous AI Agent running inside "
         "Shubham Kumar's GitHub profile. Shubham is a Full Stack Developer, ML/Data Science enthusiast, and AI-Agent builder from Bangalore. "
@@ -24,22 +24,29 @@ def get_ai_insight():
     
     try:
         response = requests.post(url, json=payload, timeout=10)
+        response.raise_for_status() # Catches HTTP errors safely
         data = response.json()
         insight = data['candidates'][0]['content']['parts'][0]['text'].strip()
-        return f"> 🤖 **AGENT_LOG //** {insight}"
+        
+        # Formatted with the new A.P.E.X prefix
+        return f"> 🤖 **A.P.E.X. TELEMETRY //** {insight}"
     except Exception as e:
         return f"> ⚠️ *Agent telemetry offline: Unable to parse AI stream.*"
 
 def update_readme():
-    with open("README.md", "r", encoding="utf-8") as file:
-        content = file.read()
+    try:
+        with open("README.md", "r", encoding="utf-8") as file:
+            content = file.read()
+    except FileNotFoundError:
+        print("Error: README.md not found in the root directory.")
+        return
 
     new_insight = get_ai_insight()
     
-    # Construct the replacement payload
-    new_log_block = f"\n### ✦ SYSTEM_LOG: DAILY_AI_AGENT_INSIGHT ✦\n\n{new_insight}\n"
+    # This block matches your new README layout perfectly to prevent duplication
+    new_log_block = f"\n### ✦ A.P.E.X. SYSTEM_LOG: DAILY_TELEMETRY ✦\n\n{new_insight}\n"
     
-    # Regex to find everything between our two tags and replace it
+    # Regex finds the hidden tags and replaces everything inside them
     pattern = r".*?"
     updated_content = re.sub(pattern, new_log_block, content, flags=re.DOTALL)
 
