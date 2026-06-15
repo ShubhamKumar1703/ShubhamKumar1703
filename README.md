@@ -30,6 +30,10 @@
 
 ---
 
+<div align="right">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" alt="Floating Astronaut" />
+</div>
+
 ### ✦ TECH_STACK_DASHBOARD ✦
 
 <a href="https://skillicons.dev">
@@ -48,9 +52,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamKumar1703&row=1&column=6&theme=synthwave&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKumar1703&theme=synthwave&hide_border=true&stroke=0000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
