@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamKumar1703&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamKumar1703&row=1&column=6&theme=synthwave&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
