@@ -5,13 +5,13 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kumar-4a517226a/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-kumar1703/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
   <a href="https://twitter.com/SHUBHAMkUmAr_03" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" />
   </a>
-  <a href="mailto:shubhamkumar.ai21@rvce.edu.in" target="_blank">
+  <a href="mailto:geshubham@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
   </a>
   <a href="ShubhJJ#9114" target="_blank">
